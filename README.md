@@ -6,3 +6,5 @@ Hello! This is my final project for ECE 176. My project focuses on using Convolu
 In order to use, download the dataset zip files from the following links:
 - https://www.kaggle.com/datasets/msambare/fer2013
 - https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset
+
+My video is available at: https://www.youtube.com/watch?v=vLezI-tQ-Y0
